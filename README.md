@@ -1,2 +1,3 @@
 # git-playground
-git studying
+
+깃 재미있다
